@@ -11,7 +11,6 @@ The purpose of this project is to provide a **describe the purpose of the projec
 This project uses **describe the main functionality and key steps or algorithms involved**.
 
 ### Examples
-```python
 #example of usage
 
 ###Note any limitations or potential issues:
