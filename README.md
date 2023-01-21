@@ -11,7 +11,7 @@ The purpose of this project is to provide a **describe the purpose of the projec
 This project uses **describe the main functionality and key steps or algorithms involved**.
 
 ### 4.) Examples
-#e xample of usage
+ example of usage
 
 ### 5.) Note any limitations or potential issues:
 Are there any known bugs or problems with the code? Are there any edge cases that have not been handled?
